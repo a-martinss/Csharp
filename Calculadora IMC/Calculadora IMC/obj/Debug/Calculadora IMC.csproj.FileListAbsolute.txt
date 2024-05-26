@@ -1,0 +1,10 @@
+C:\Users\Adeilson\Desktop\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe.config
+C:\Users\Adeilson\Desktop\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe
+C:\Users\Adeilson\Desktop\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.pdb
+C:\Users\Adeilson\Desktop\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.AssemblyReference.cache
+C:\Users\Adeilson\Desktop\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora_IMC.Form1.resources
+C:\Users\Adeilson\Desktop\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora_IMC.Properties.Resources.resources
+C:\Users\Adeilson\Desktop\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.GenerateResource.cache
+C:\Users\Adeilson\Desktop\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.CoreCompileInputs.cache
+C:\Users\Adeilson\Desktop\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.exe
+C:\Users\Adeilson\Desktop\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.pdb
