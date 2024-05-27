@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forma Geométrica", "Forma Geométrica\Forma Geométrica.csproj", "{71AE009B-BB58-4C25-BAF1-90F1BAA6B27B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71AE009B-BB58-4C25-BAF1-90F1BAA6B27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71AE009B-BB58-4C25-BAF1-90F1BAA6B27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71AE009B-BB58-4C25-BAF1-90F1BAA6B27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71AE009B-BB58-4C25-BAF1-90F1BAA6B27B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {795292EF-DB7C-4DFB-828A-7C34156F2A24}
+	EndGlobalSection
+EndGlobal
