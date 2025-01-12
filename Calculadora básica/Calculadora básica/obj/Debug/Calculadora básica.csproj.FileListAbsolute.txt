@@ -1,0 +1,10 @@
+E:\portfólio\Csharp\Calculadora básica\Calculadora básica\bin\Debug\Calculadora básica.exe.config
+E:\portfólio\Csharp\Calculadora básica\Calculadora básica\bin\Debug\Calculadora básica.exe
+E:\portfólio\Csharp\Calculadora básica\Calculadora básica\bin\Debug\Calculadora básica.pdb
+E:\portfólio\Csharp\Calculadora básica\Calculadora básica\obj\Debug\Calculadora básica.csproj.AssemblyReference.cache
+E:\portfólio\Csharp\Calculadora básica\Calculadora básica\obj\Debug\Calculadora_básica.Form1.resources
+E:\portfólio\Csharp\Calculadora básica\Calculadora básica\obj\Debug\Calculadora_básica.Properties.Resources.resources
+E:\portfólio\Csharp\Calculadora básica\Calculadora básica\obj\Debug\Calculadora básica.csproj.GenerateResource.cache
+E:\portfólio\Csharp\Calculadora básica\Calculadora básica\obj\Debug\Calculadora básica.csproj.CoreCompileInputs.cache
+E:\portfólio\Csharp\Calculadora básica\Calculadora básica\obj\Debug\Calculadora básica.exe
+E:\portfólio\Csharp\Calculadora básica\Calculadora básica\obj\Debug\Calculadora básica.pdb
