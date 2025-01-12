@@ -1,0 +1,10 @@
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Forma Geométrica\Forma Geométrica\bin\Debug\Forma Geométrica.exe.config
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Forma Geométrica\Forma Geométrica\bin\Debug\Forma Geométrica.exe
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Forma Geométrica\Forma Geométrica\bin\Debug\Forma Geométrica.pdb
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Forma Geométrica\Forma Geométrica\obj\Debug\Forma Geométrica.csproj.AssemblyReference.cache
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Forma Geométrica\Forma Geométrica\obj\Debug\Forma_Geométrica.Form1.resources
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Forma Geométrica\Forma Geométrica\obj\Debug\Forma_Geométrica.Properties.Resources.resources
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Forma Geométrica\Forma Geométrica\obj\Debug\Forma Geométrica.csproj.GenerateResource.cache
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Forma Geométrica\Forma Geométrica\obj\Debug\Forma Geométrica.csproj.CoreCompileInputs.cache
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Forma Geométrica\Forma Geométrica\obj\Debug\Forma Geométrica.exe
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Forma Geométrica\Forma Geométrica\obj\Debug\Forma Geométrica.pdb
