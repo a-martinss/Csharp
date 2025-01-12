@@ -1,0 +1,7 @@
+D:\Backup Utility\desweb\portfólio\Csharp\Verificar Idade\Verificar Idade\bin\Debug\Verificar Idade.exe.config
+D:\Backup Utility\desweb\portfólio\Csharp\Verificar Idade\Verificar Idade\bin\Debug\Verificar Idade.exe
+D:\Backup Utility\desweb\portfólio\Csharp\Verificar Idade\Verificar Idade\bin\Debug\Verificar Idade.pdb
+D:\Backup Utility\desweb\portfólio\Csharp\Verificar Idade\Verificar Idade\obj\Debug\Verificar Idade.csproj.AssemblyReference.cache
+D:\Backup Utility\desweb\portfólio\Csharp\Verificar Idade\Verificar Idade\obj\Debug\Verificar Idade.csproj.CoreCompileInputs.cache
+D:\Backup Utility\desweb\portfólio\Csharp\Verificar Idade\Verificar Idade\obj\Debug\Verificar Idade.exe
+D:\Backup Utility\desweb\portfólio\Csharp\Verificar Idade\Verificar Idade\obj\Debug\Verificar Idade.pdb
