@@ -1,0 +1,10 @@
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Pares e ímpares\Pares e ímpares\obj\Debug\Pares e ímpares.csproj.AssemblyReference.cache
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Pares e ímpares\Pares e ímpares\obj\Debug\Pares_e_ímpares.Form1.resources
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Pares e ímpares\Pares e ímpares\obj\Debug\Pares_e_ímpares.Properties.Resources.resources
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Pares e ímpares\Pares e ímpares\obj\Debug\Pares e ímpares.csproj.GenerateResource.cache
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Pares e ímpares\Pares e ímpares\obj\Debug\Pares e ímpares.csproj.CoreCompileInputs.cache
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Pares e ímpares\Pares e ímpares\bin\Debug\Pares e ímpares.exe.config
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Pares e ímpares\Pares e ímpares\bin\Debug\Pares e ímpares.exe
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Pares e ímpares\Pares e ímpares\bin\Debug\Pares e ímpares.pdb
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Pares e ímpares\Pares e ímpares\obj\Debug\Pares e ímpares.exe
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Pares e ímpares\Pares e ímpares\obj\Debug\Pares e ímpares.pdb
