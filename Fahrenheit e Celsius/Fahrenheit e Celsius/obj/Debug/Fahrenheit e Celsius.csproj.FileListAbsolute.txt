@@ -1,0 +1,10 @@
+E:\portfólio\Csharp\Fahrenheit e Celsius\Fahrenheit e Celsius\bin\Debug\Fahrenheit e Celsius.exe.config
+E:\portfólio\Csharp\Fahrenheit e Celsius\Fahrenheit e Celsius\bin\Debug\Fahrenheit e Celsius.exe
+E:\portfólio\Csharp\Fahrenheit e Celsius\Fahrenheit e Celsius\bin\Debug\Fahrenheit e Celsius.pdb
+E:\portfólio\Csharp\Fahrenheit e Celsius\Fahrenheit e Celsius\obj\Debug\Fahrenheit e Celsius.csproj.AssemblyReference.cache
+E:\portfólio\Csharp\Fahrenheit e Celsius\Fahrenheit e Celsius\obj\Debug\Fahrenheit_e_Celsius.Form1.resources
+E:\portfólio\Csharp\Fahrenheit e Celsius\Fahrenheit e Celsius\obj\Debug\Fahrenheit_e_Celsius.Properties.Resources.resources
+E:\portfólio\Csharp\Fahrenheit e Celsius\Fahrenheit e Celsius\obj\Debug\Fahrenheit e Celsius.csproj.GenerateResource.cache
+E:\portfólio\Csharp\Fahrenheit e Celsius\Fahrenheit e Celsius\obj\Debug\Fahrenheit e Celsius.csproj.CoreCompileInputs.cache
+E:\portfólio\Csharp\Fahrenheit e Celsius\Fahrenheit e Celsius\obj\Debug\Fahrenheit e Celsius.exe
+E:\portfólio\Csharp\Fahrenheit e Celsius\Fahrenheit e Celsius\obj\Debug\Fahrenheit e Celsius.pdb
