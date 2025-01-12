@@ -1,0 +1,21 @@
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\bin\Debug\Projeto de Software.exe.config
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\bin\Debug\Projeto de Software.exe
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\bin\Debug\Projeto de Software.pdb
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\obj\Debug\Projeto de Software.csproj.AssemblyReference.cache
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\obj\Debug\Projeto_de_Software.Properties.Resources.resources
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\obj\Debug\Projeto de Software.csproj.GenerateResource.cache
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\obj\Debug\Projeto de Software.csproj.CoreCompileInputs.cache
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\obj\Debug\Projeto de Software.exe
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\obj\Debug\Projeto de Software.pdb
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\obj\Debug\Projeto_de_Software.Login.resources
+D:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\bin\Debug\Projeto de Software.exe.config
+D:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\bin\Debug\Projeto de Software.exe
+D:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\bin\Debug\Projeto de Software.pdb
+D:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\obj\Debug\Projeto de Software.csproj.AssemblyReference.cache
+D:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\obj\Debug\Projeto_de_Software.Login.resources
+D:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\obj\Debug\Projeto_de_Software.Properties.Resources.resources
+D:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\obj\Debug\Projeto de Software.csproj.GenerateResource.cache
+D:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\obj\Debug\Projeto de Software.csproj.CoreCompileInputs.cache
+D:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\obj\Debug\Projeto de Software.exe
+D:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\obj\Debug\Projeto de Software.pdb
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Projeto de Software\Projeto de Software\obj\Debug\Projeto_de_Software.Cadastro.resources
