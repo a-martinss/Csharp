@@ -1,0 +1,7 @@
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Cálculo de notas\Cálculo de notas\bin\Debug\Cálculo de notas.exe.config
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Cálculo de notas\Cálculo de notas\bin\Debug\Cálculo de notas.exe
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Cálculo de notas\Cálculo de notas\bin\Debug\Cálculo de notas.pdb
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Cálculo de notas\Cálculo de notas\obj\Debug\Cálculo de notas.csproj.AssemblyReference.cache
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Cálculo de notas\Cálculo de notas\obj\Debug\Cálculo de notas.csproj.CoreCompileInputs.cache
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Cálculo de notas\Cálculo de notas\obj\Debug\Cálculo de notas.exe
+E:\faculdade\Análise e Desenvolvimento de Sistemas\1º semestre\matérias\programação visual\C#\Cálculo de notas\Cálculo de notas\obj\Debug\Cálculo de notas.pdb
